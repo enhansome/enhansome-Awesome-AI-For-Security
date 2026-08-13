@@ -1,0 +1,469 @@
+{
+  "items": [
+    {
+      "description": "Other collections and lists that may be of interest.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome ML for Cybersecurity",
+          "description": "Established resource for traditional ML approaches in security, predating modern LLM era.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-19T02:14:10Z",
+            "owner": "jivoi",
+            "repo": "awesome-ml-for-cybersecurity",
+            "stars": 9273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Security",
+          "description": "Complementary list focusing on AI security rather than AI for security applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T17:28:42Z",
+            "owner": "ottosulin",
+            "repo": "awesome-ai-security",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-MCP-Security",
+          "description": "Definitive resource covering all aspects of Model Context Protocol security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T20:29:51Z",
+            "owner": "Puliczek",
+            "repo": "awesome-mcp-security",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI for Cybersecurity",
+          "description": "Earlier comprehensive resource collection, focusing on pre-LLM machine learning applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T05:21:28Z",
+            "owner": "Billy1900",
+            "repo": "Awesome-AI-for-cybersecurity",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI4DevSecOps",
+          "description": "Recent integration of AI technologies within DevSecOps frameworks and methodologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-02T10:55:32Z",
+            "owner": "awsm-research",
+            "repo": "Awesome-AI4DevSecOps",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Related Awesomes Lists"
+    },
+    {
+      "description": "AI models specialized for security applications and scenarios.",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "Resources designed for training and fine-tuning AI systems on security-related tasks.",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "This section covers frameworks and methodologies for evaluating AI systems within security contexts.",
+      "items": [],
+      "title": "Benchmarks & Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecLLMHolmes",
+          "description": "Automated framework for systematic LLM vulnerability detection evaluation across multiple dimensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-04T02:25:38Z",
+            "owner": "ai4cloudops",
+            "repo": "SecLLMHolmes",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLoc Bench",
+          "description": "Two-phase agentic benchmark (500 tasks, 290 repos, 147 CWE types) evaluating terminal-based vulnerability localization and patch verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T09:44:44Z",
+            "owner": "cisco-foundation-ai",
+            "repo": "vulnerability-localization-benchmark",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Vulnerability Assessment"
+    },
+    {
+      "description": "Academic and industry research on AI applications in security.",
+      "items": [],
+      "title": "Publications"
+    },
+    {
+      "description": "Software tools that implement AI for security applications.",
+      "items": [],
+      "title": "Tools & Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Counterfit",
+          "description": "Automation layer for comprehensive ML system security assessment across multiple attack vectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-18T13:29:17Z",
+            "owner": "Azure",
+            "repo": "counterfit",
+            "stars": 933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepFool",
+          "description": "Simple yet accurate method for generating adversarial examples against deep neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Matlab",
+            "last_commit": "2020-03-31T01:35:14Z",
+            "owner": "LTS4",
+            "repo": "DeepFool",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charcuterie",
+          "description": "Collection of code execution techniques targeting ML libraries for security evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-03T14:43:15Z",
+            "owner": "moohax",
+            "repo": "Charcuterie",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Adversarial ML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "promptfoo",
+          "description": "Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:16:38Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "garak",
+          "description": "Specialized security probing tool designed specifically for LLM vulnerability assessment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:11:21Z",
+            "owner": "NVIDIA",
+            "repo": "garak",
+            "stars": 8793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP-Scan",
+          "description": "Security scanning tool specifically designed for Model Context Protocol servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:20:38Z",
+            "owner": "snyk",
+            "repo": "agent-scan",
+            "stars": 2910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAUNTLEX",
+          "description": "Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T03:24:38Z",
+            "owner": "sanjoy1234",
+            "repo": "gauntlex",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snaike-MLFlow",
+          "description": "MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.",
+          "children": []
+        }
+      ],
+      "title": "Security Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Malware Env for OpenAI Gym",
+          "description": "Reinforcement learning environment enabling malware manipulation for AV bypass learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-21T22:04:05Z",
+            "owner": "endgameinc",
+            "repo": "gym-malware",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-pwning",
+          "description": "Framework for assessing ML model robustness against adversarial attacks through systematic evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-25T01:21:49Z",
+            "owner": "cchio",
+            "repo": "deep-pwning",
+            "stars": 571
+          }
+        }
+      ],
+      "title": "Learning Environments"
+    },
+    {
+      "description": "AI systems designed to perform security-related tasks with varying degrees of autonomy.",
+      "items": [],
+      "title": "Security Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HackingBuddyGPT",
+          "description": "Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:57:34Z",
+            "owner": "ipa-lab",
+            "repo": "hackingBuddyGPT",
+            "stars": 1206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Radar",
+          "description": "Open-source CLI security scanner for agentic workflows with automated detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T15:28:44Z",
+            "owner": "splx-ai",
+            "repo": "agentic-radar",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cynative",
+          "description": "Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:34:12Z",
+            "owner": "cynative",
+            "repo": "cynative",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fraim",
+          "description": "A flexible framework for security teams to build and deploy AI-powered workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-09T19:40:40Z",
+            "owner": "fraim-dev",
+            "repo": "fraim",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Agent Memory Guard",
+          "description": "Official OWASP framework for detecting and preventing AI agent memory poisoning (OWASP ASI06). Scans agent memory stores for prompt injection payloads, memory manipulation patterns, and data exfiltration attempts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:06:35Z",
+            "owner": "OWASP",
+            "repo": "www-project-agent-memory-guard",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-in-peace",
+          "description": "Agentic security-review harness for Rust projects that autonomously finds, triages, fuzz-verifies, reports, and patches unsafe/FFI memory bugs, panic-DoS, and deserialization-trust issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:45:02Z",
+            "owner": "scadastrangelove",
+            "repo": "rust-in-peace",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Autonomous Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "agentic_security",
+          "description": "LLM vulnerability scanner specializing in agentic systems and workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T16:27:20Z",
+            "owner": "msoedov",
+            "repo": "agentic_security",
+            "stars": 1961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HackGPT",
+          "description": "LLM-powered tool designed specifically for offensive security and ethical hacking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T20:44:09Z",
+            "owner": "NoDataFound",
+            "repo": "hackGPT",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darkmoon",
+          "description": "Open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through human readable Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:05:32Z",
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HunterX",
+          "description": "Open source AI-assisted vulnerability discovery, validation, and proof engine for security testing and red-team workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:13:35Z",
+            "owner": "nullc0d30",
+            "repo": "HunterX",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Red Team Agents"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    },
+    {
+      "description": "CC0",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:23:00.662Z",
+    "original_repository": "AmanPriyanshu/Awesome-AI-For-Security",
+    "original_repository_sha": "bdaf13cad8c558cd74b61ecc8dbc017d3daf9d5f",
+    "enhanced_repository": "enhansome/enhansome-Awesome-AI-For-Security",
+    "enhanced_repository_description": null,
+    "title": "Awesome AI for Security with stars"
+  }
+}
