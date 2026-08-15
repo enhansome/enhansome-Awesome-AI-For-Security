@@ -14,7 +14,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9276
+            "stars": 9280
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T17:28:42Z",
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1366
+            "stars": 1381
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2025-07-18T13:29:17Z",
             "owner": "Azure",
             "repo": "counterfit",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T19:24:54Z",
+            "last_commit": "2026-08-15T18:40:24Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24235
+            "stars": 24257
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8801
+            "stars": 8815
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-14T13:19:23Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2913
+            "stars": 2914
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2025-11-27T15:28:44Z",
             "owner": "splx-ai",
             "repo": "agentic-radar",
-            "stars": 1031
+            "stars": 1037
           }
         },
         {
@@ -357,7 +357,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:42:34Z",
+            "last_commit": "2026-08-15T20:22:06Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
             "stars": 125
@@ -394,7 +394,7 @@
             "last_commit": "2026-07-31T16:27:20Z",
             "owner": "msoedov",
             "repo": "agentic_security",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 837
+            "stars": 841
           }
         },
         {
@@ -433,7 +433,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T09:34:40Z",
+            "last_commit": "2026-08-15T07:06:31Z",
             "owner": "nullc0d30",
             "repo": "HunterX",
             "stars": 11
@@ -459,7 +459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:55:13.335Z",
+    "last_updated": "2026-08-15T21:53:04.061Z",
     "original_repository": "AmanPriyanshu/Awesome-AI-For-Security",
     "original_repository_sha": "bdaf13cad8c558cd74b61ecc8dbc017d3daf9d5f",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI-For-Security",
