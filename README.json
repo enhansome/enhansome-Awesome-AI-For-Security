@@ -14,7 +14,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9287
+            "stars": 9291
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-16T19:32:28Z",
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1390
+            "stars": 1398
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-03-03T20:29:51Z",
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 728
+            "stars": 729
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2025-07-18T13:29:17Z",
             "owner": "Azure",
             "repo": "counterfit",
-            "stars": 934
+            "stars": 935
           }
         },
         {
@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:05:51Z",
+            "last_commit": "2026-08-17T21:44:20Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24277
+            "stars": 24317
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-08-14T21:40:59Z",
             "owner": "NVIDIA",
             "repo": "garak",
-            "stars": 8827
+            "stars": 8836
           }
         },
         {
@@ -222,10 +222,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T08:19:15Z",
+            "last_commit": "2026-08-17T13:39:18Z",
             "owner": "snyk",
             "repo": "agent-scan",
-            "stars": 2913
+            "stars": 2915
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-11T08:57:34Z",
             "owner": "ipa-lab",
             "repo": "hackingBuddyGPT",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -329,7 +329,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T19:32:52Z",
+            "last_commit": "2026-08-17T18:16:40Z",
             "owner": "cynative",
             "repo": "cynative",
             "stars": 190
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-16T16:50:39Z",
             "owner": "OWASP",
             "repo": "www-project-agent-memory-guard",
-            "stars": 126
+            "stars": 125
           }
         },
         {
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T04:45:02Z",
+            "last_commit": "2026-08-17T17:46:31Z",
             "owner": "scadastrangelove",
             "repo": "rust-in-peace",
             "stars": 14
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-12T20:44:09Z",
             "owner": "NoDataFound",
             "repo": "hackGPT",
-            "stars": 1199
+            "stars": 1200
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 841
+            "stars": 844
           }
         },
         {
@@ -433,7 +433,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T12:42:30Z",
+            "last_commit": "2026-08-17T15:17:30Z",
             "owner": "nullc0d30",
             "repo": "HunterX",
             "stars": 12
@@ -459,7 +459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:52:12.549Z",
+    "last_updated": "2026-08-17T21:55:49.259Z",
     "original_repository": "AmanPriyanshu/Awesome-AI-For-Security",
     "original_repository_sha": "bdaf13cad8c558cd74b61ecc8dbc017d3daf9d5f",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI-For-Security",
