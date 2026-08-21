@@ -15,7 +15,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9305
+            "stars": 9310
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T07:18:58Z",
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1410
+            "stars": 1413
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-03T20:29:51Z",
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 730
+            "stars": 731
           }
         },
         {
@@ -156,7 +156,7 @@
                 "last_commit": "2020-03-31T01:35:14Z",
                 "owner": "LTS4",
                 "repo": "DeepFool",
-                "stars": 361
+                "stars": 360
               }
             },
             {
@@ -190,10 +190,10 @@
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:32:17Z",
+                "last_commit": "2026-08-21T20:05:06Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24410
+                "stars": 24443
               }
             },
             {
@@ -205,10 +205,10 @@
                 "archived": false,
                 "id": 639097338,
                 "language": "Python",
-                "last_commit": "2026-08-19T19:50:37Z",
+                "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 8877
+                "stars": 8889
               }
             },
             {
@@ -220,10 +220,10 @@
                 "archived": false,
                 "id": 962024783,
                 "language": "Python",
-                "last_commit": "2026-08-20T13:40:36Z",
+                "last_commit": "2026-08-21T20:21:43Z",
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 2932
+                "stars": 2937
               }
             },
             {
@@ -275,7 +275,7 @@
                 "last_commit": "2023-03-25T01:21:49Z",
                 "owner": "cchio",
                 "repo": "deep-pwning",
-                "stars": 571
+                "stars": 570
               }
             }
           ],
@@ -300,10 +300,10 @@
                 "archived": false,
                 "id": 673704029,
                 "language": "Python",
-                "last_commit": "2026-08-20T11:49:16Z",
+                "last_commit": "2026-08-21T17:54:36Z",
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1214
+                "stars": 1216
               }
             },
             {
@@ -318,7 +318,7 @@
                 "last_commit": "2025-11-27T15:28:44Z",
                 "owner": "splx-ai",
                 "repo": "agentic-radar",
-                "stars": 1038
+                "stars": 1039
               }
             },
             {
@@ -330,7 +330,7 @@
                 "archived": false,
                 "id": 1279470595,
                 "language": "Go",
-                "last_commit": "2026-08-20T14:49:44Z",
+                "last_commit": "2026-08-21T21:01:22Z",
                 "owner": "cynative",
                 "repo": "cynative",
                 "stars": 191
@@ -360,10 +360,10 @@
                 "archived": false,
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-20T16:41:13Z",
+                "last_commit": "2026-08-21T16:19:23Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 146
+                "stars": 150
               }
             },
             {
@@ -375,10 +375,10 @@
                 "archived": false,
                 "id": 1301938254,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:01:41Z",
+                "last_commit": "2026-08-21T03:44:24Z",
                 "owner": "scadastrangelove",
                 "repo": "rust-in-peace",
-                "stars": 15
+                "stars": 16
               }
             }
           ],
@@ -427,10 +427,10 @@
                 "archived": false,
                 "id": 894433723,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:53:07Z",
+                "last_commit": "2026-08-21T18:19:19Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 852
+                "stars": 856
               }
             },
             {
@@ -442,10 +442,10 @@
                 "archived": false,
                 "id": 1148383268,
                 "language": "Python",
-                "last_commit": "2026-08-20T21:37:23Z",
+                "last_commit": "2026-08-21T14:11:18Z",
                 "owner": "nullc0d30",
                 "repo": "HunterX",
-                "stars": 12
+                "stars": 13
               }
             }
           ],
@@ -458,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:57:46.525Z",
+    "last_updated": "2026-08-21T21:56:21.830Z",
     "original_repository": "AmanPriyanshu/Awesome-AI-For-Security",
     "original_repository_id": 975364658,
     "original_repository_sha": "bdaf13cad8c558cd74b61ecc8dbc017d3daf9d5f",
