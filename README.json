@@ -15,7 +15,7 @@
             "last_commit": "2024-08-19T02:14:10Z",
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9325
+            "stars": 9327
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 653250172,
             "language": null,
-            "last_commit": "2026-08-23T06:01:54Z",
+            "last_commit": "2026-08-27T05:41:42Z",
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1427
+            "stars": 1428
           }
         },
         {
@@ -237,7 +237,7 @@
                 "last_commit": "2026-08-27T00:14:28Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24604
+                "stars": 24616
               }
             },
             {
@@ -252,7 +252,7 @@
                 "last_commit": "2026-08-25T22:37:37Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9033
+                "stars": 9041
               }
             },
             {
@@ -264,10 +264,10 @@
                 "archived": false,
                 "id": 962024783,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:08:10Z",
+                "last_commit": "2026-08-27T07:48:07Z",
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 2962
+                "stars": 2964
               }
             },
             {
@@ -344,10 +344,10 @@
                 "archived": false,
                 "id": 673704029,
                 "language": "Python",
-                "last_commit": "2026-08-21T17:54:36Z",
+                "last_commit": "2026-08-27T09:01:14Z",
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1223
+                "stars": 1224
               }
             },
             {
@@ -404,7 +404,7 @@
                 "archived": false,
                 "id": 1159563091,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:44:31Z",
+                "last_commit": "2026-08-27T02:35:04Z",
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
                 "stars": 156
@@ -474,7 +474,7 @@
                 "last_commit": "2026-08-25T10:02:54Z",
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 876
+                "stars": 875
               }
             },
             {
@@ -502,9 +502,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T01:02:08.418Z",
-    "original_repository": "AmanPriyanshu/Awesome-AI-For-Security",
-    "original_repository_id": 975364658,
+    "last_updated": "2026-08-27T11:22:36.780Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 975364658,
+      "language": null,
+      "last_commit": "2026-08-13T09:34:00Z",
+      "owner": "AmanPriyanshu",
+      "repo": "Awesome-AI-For-Security",
+      "stars": 147
+    },
     "original_repository_sha": "bdaf13cad8c558cd74b61ecc8dbc017d3daf9d5f",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI-For-Security",
     "enhanced_repository_description": null,
