@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :octocat: Machine Learning for Cyber Security",
+            "homepage": null,
             "id": 76955905,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T02:14:10Z",
+            "open_issues": 30,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9331
+            "stars": 9331,
+            "topics": [
+              "awesome-list",
+              "cyber-security",
+              "data-mining",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome resources related AI security",
+            "homepage": null,
             "id": 653250172,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T05:44:28Z",
+            "open_issues": 153,
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1434
+            "stars": 1434,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
         },
@@ -42,12 +57,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔒 Awesome MCP (Model Context Protocol) Security 🖥️",
+            "homepage": null,
             "id": 962882667,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-03T20:29:51Z",
+            "open_issues": 180,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "awesome-list",
+              "bugbounty",
+              "bugbountytips",
+              "cybers",
+              "exploit",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "mcp-servers",
+              "pentesting",
+              "poc",
+              "security",
+              "security-writeups",
+              "writeups"
+            ]
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
         },
@@ -58,12 +93,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of AI for cybersecurity including network (network traffic analysis and intrusion detection), endpoint (anti-malware), application (WAF or database firewalls), user (UBA), process behavior (anti-fraud).",
+            "homepage": null,
             "id": 408312797,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-11T05:21:28Z",
+            "open_issues": 0,
             "owner": "Billy1900",
             "repo": "Awesome-AI-for-cybersecurity",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "anti-malware",
+              "anti-spam",
+              "firewall",
+              "intrusion-detection",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
         },
@@ -74,12 +120,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository offers a detailed taxonomy of existing AI-driven security solutions tailored for DevSecOps, highlighting the current research challenges and suggesting future directions for the field. It serves as a resource for researchers, developers, and security professionals interested in the intersection of AI and DevSecOps.",
+            "homepage": "https://dl.acm.org/doi/abs/10.1145/3712190?mi=kthjst&af=R&AllField=PubIdSortField%3A%281049-331X%29&content=standard&expand=dl&sortBy=EpubDate_desc&target=advanced",
             "id": 848650536,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-02T10:55:32Z",
+            "open_issues": 0,
             "owner": "awsm-research",
             "repo": "Awesome-AI4DevSecOps",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cybersecurity",
+              "deep-learning",
+              "devsecops",
+              "machine-learning",
+              "software-engineering",
+              "software-security",
+              "software-testing"
+            ]
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
         }
@@ -98,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SecLLMHolmes is a generalized, fully automated, and scalable framework to systematically evaluate the performance (i.e., accuracy and reasoning capabilities) of LLMs for vulnerability detection.",
+                "homepage": null,
                 "id": 782240325,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-04T02:25:38Z",
+                "open_issues": 2,
                 "owner": "ai4cloudops",
                 "repo": "SecLLMHolmes",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -114,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Vulnerability Localization Benchmark",
+                "homepage": "https://cisco-foundation-ai.github.io/vulnerability-localization-benchmark/",
                 "id": 1307488192,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T09:44:44Z",
+                "open_issues": 6,
                 "owner": "cisco-foundation-ai",
                 "repo": "vulnerability-localization-benchmark",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -137,12 +206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SECURE: Benchmarking Generative Large Language Models as a Cyber Advisory",
+                "homepage": null,
                 "id": 848543239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-28T14:01:30Z",
+                "open_issues": 1,
                 "owner": "aiforsec",
                 "repo": "SECURE",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -160,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 767730213,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-22T19:46:03Z",
+                "open_issues": 4,
                 "owner": "NYU-LLM-CTF",
                 "repo": "NYU_CTF_Bench",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -189,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
+                "homepage": null,
                 "id": 362276202,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-18T13:29:17Z",
+                "open_issues": 26,
                 "owner": "Azure",
                 "repo": "counterfit",
-                "stars": 937
+                "stars": 937,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -205,12 +289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and accurate method to fool deep neural networks",
+                "homepage": null,
                 "id": 46752007,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2020-03-31T01:35:14Z",
+                "open_issues": 5,
                 "owner": "LTS4",
                 "repo": "DeepFool",
-                "stars": 361
+                "stars": 361,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -221,12 +310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Scientists Go To Jupyter",
+                "homepage": null,
                 "id": 540626743,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-03T14:43:15Z",
+                "open_issues": 0,
                 "owner": "moohax",
                 "repo": "Charcuterie",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -244,12 +338,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+                "homepage": "https://promptfoo.dev",
                 "id": 633927609,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T02:53:58Z",
+                "open_issues": 540,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24650
+                "stars": 24651,
+                "topics": [
+                  "ci",
+                  "ci-cd",
+                  "cicd",
+                  "evaluation",
+                  "evaluation-framework",
+                  "llm",
+                  "llm-eval",
+                  "llm-evaluation",
+                  "llm-evaluation-framework",
+                  "llmops",
+                  "pentesting",
+                  "prompt-engineering",
+                  "prompt-testing",
+                  "prompts",
+                  "rag",
+                  "red-teaming",
+                  "testing",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -260,12 +378,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the LLM vulnerability scanner",
+                "homepage": "https://discord.gg/uVch4puUCs",
                 "id": 639097338,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T22:37:37Z",
+                "open_issues": 408,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9066
+                "stars": 9066,
+                "topics": [
+                  "ai",
+                  "llm-evaluation",
+                  "llm-security",
+                  "security-scanners",
+                  "vulnerability-assessment"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -276,12 +405,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security scanner for AI agents, MCP servers and agent skills.",
+                "homepage": null,
                 "id": 962024783,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:08:09Z",
+                "open_issues": 8,
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 2971
+                "stars": 2971,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "mcp",
+                  "modelcontextprotocol",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -292,12 +432,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adversarial Co-Generation Engine — concurrent Builder+Breaker agents for production-grade AI code security",
+                "homepage": "https://pypi.org/project/gauntlex-ai/",
                 "id": 1291425598,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-17T03:24:38Z",
+                "open_issues": 2,
                 "owner": "sanjoy1234",
                 "repo": "gauntlex",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "adversarial-testing",
+                  "ai-code-generation",
+                  "ai-security",
+                  "claude-code",
+                  "devsecops",
+                  "llm-security",
+                  "mcp-server",
+                  "owasp",
+                  "sast",
+                  "security-testing"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -315,12 +471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 98222506,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-21T22:04:05Z",
+                "open_issues": 14,
                 "owner": "endgameinc",
                 "repo": "gym-malware",
-                "stars": 636
+                "stars": 636,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -331,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metasploit for machine learning.",
+                "homepage": null,
                 "id": 61609586,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-25T01:21:49Z",
+                "open_issues": 5,
                 "owner": "cchio",
                 "repo": "deep-pwning",
-                "stars": 570
+                "stars": 570,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -360,12 +526,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helping Ethical Hackers use LLMs in 50 Lines of Code or less..",
+                "homepage": "https://hackingbuddy.ai/",
                 "id": 673704029,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:56:32Z",
+                "open_issues": 2,
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1225
+                "stars": 1225,
+                "topics": [
+                  "large-language-models",
+                  "llm",
+                  "penetration-testing",
+                  "pentesting"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -376,12 +552,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A security scanner for your LLM agentic workflows",
+                "homepage": "https://splx.ai",
                 "id": 931506474,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-27T15:28:44Z",
+                "open_issues": 15,
                 "owner": "splx-ai",
                 "repo": "agentic-radar",
-                "stars": 1043
+                "stars": 1043,
+                "topics": [
+                  "agentic-ai",
+                  "agentic-framework",
+                  "agentic-workflow",
+                  "ai",
+                  "ai-red-teaming",
+                  "ai-security",
+                  "cli",
+                  "devsecops",
+                  "generative-ai",
+                  "llm",
+                  "llm-security",
+                  "mcp",
+                  "mcp-server",
+                  "red-teaming",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -392,12 +590,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your own security agents. Open-source framework for agents with live, read-only access to your infrastructure, with no path to widen it. Reasons across AWS, GCP, Azure, Kubernetes, GitHub and GitLab as one system.",
+                "homepage": "https://cynative.com",
                 "id": 1279470595,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:48:46Z",
+                "open_issues": 16,
                 "owner": "cynative",
                 "repo": "cynative",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "agentic-security",
+                  "ai-agent",
+                  "application-security",
+                  "aws-security",
+                  "azure-security",
+                  "cli-tool",
+                  "cloud-security",
+                  "container-security",
+                  "cybersecurity",
+                  "devsecops",
+                  "gcp-security",
+                  "product-security",
+                  "read-only",
+                  "runtime-security",
+                  "security-automation",
+                  "security-tools",
+                  "sovereign-ai",
+                  "threat-hunting",
+                  "trust-boundary",
+                  "vulnerability-management"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -408,12 +632,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OWASP Foundation web repository",
+                "homepage": "http://owasp.org/www-project-agent-memory-guard/",
                 "id": 1159563091,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T01:09:33Z",
+                "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "agent-memory",
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-safety",
+                  "ai-security",
+                  "autogen",
+                  "crewai",
+                  "langchain",
+                  "llm-agents",
+                  "llm-security",
+                  "mcp",
+                  "mcp-server",
+                  "mem0",
+                  "memory-poisoning",
+                  "openai-agents",
+                  "owasp",
+                  "prompt-injection",
+                  "python",
+                  "rag-security",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -424,12 +674,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible framework for security teams to build and deploy AI-powered workflows that complement their existing security operations.",
+                "homepage": "https://www.fraim.dev",
                 "id": 1008673481,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-09T19:40:40Z",
+                "open_issues": 22,
                 "owner": "fraim-dev",
                 "repo": "fraim",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "ai",
+                  "llm",
+                  "sast",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -440,12 +700,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rust-in-peace — agentic security review for Rust: autonomous find/triage/patch for unsafe/FFI memory bugs, panic-DoS, and deserialization-trust flaws (Miri / sanitizer / panic / hang detectors). A Rust-security fork of anthropics/defending-code-reference-harness.",
+                "homepage": null,
                 "id": 1301938254,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T02:31:11Z",
+                "open_issues": 0,
                 "owner": "scadastrangelove",
                 "repo": "rust-in-peace",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "agentic",
+                  "ai-agents",
+                  "appsec",
+                  "claude",
+                  "code-review",
+                  "fuzzing",
+                  "memory-safety",
+                  "miri",
+                  "rust",
+                  "sanitizer",
+                  "security",
+                  "security-tools",
+                  "static-analysis",
+                  "unsafe-rust",
+                  "vulnerability-detection"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -463,12 +744,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪",
+                "homepage": "https://agentic-security.vercel.app",
                 "id": 785334631,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T16:15:08Z",
+                "open_issues": 71,
                 "owner": "msoedov",
                 "repo": "agentic_security",
-                "stars": 1979
+                "stars": 1979,
+                "topics": [
+                  "agent-framework",
+                  "agent-security",
+                  "ai-red-team",
+                  "llm-evaluation",
+                  "llm-evaluation-framework",
+                  "llm-fuzzer",
+                  "llm-fuzzer-aggregator",
+                  "llm-fuzzing",
+                  "llm-guardrails",
+                  "llm-jailbreaks",
+                  "llm-scanner",
+                  "llm-security",
+                  "llm-vulnerabilities",
+                  "prompt-testing"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -479,12 +780,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I leverage OpenAI and ChatGPT to do hackerish things",
+                "homepage": "http://hackGPT.com",
                 "id": 573891417,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-08-12T20:44:09Z",
+                "open_issues": 19,
                 "owner": "NoDataFound",
                 "repo": "hackGPT",
-                "stars": 1202
+                "stars": 1202,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "chatgpt-app",
+                  "chatgpt-python",
+                  "chatgpt3",
+                  "chatgpt4",
+                  "malware",
+                  "malwareanalysis",
+                  "managers",
+                  "openai",
+                  "openai-api",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -495,12 +815,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+                "homepage": "https://dark-moon.org/",
                 "id": 894433723,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T10:02:54Z",
+                "open_issues": 3,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 877
+                "stars": 877,
+                "topics": [
+                  "active-directory",
+                  "ai-agents",
+                  "ai-red-team",
+                  "ai-security-tool",
+                  "autonomous-agents",
+                  "cloud-security",
+                  "firmware-security",
+                  "iot-security",
+                  "kubernetes",
+                  "llm",
+                  "local-llm",
+                  "mcp",
+                  "multi-agent-systems",
+                  "offensive-security",
+                  "penetration-testing",
+                  "pentesting",
+                  "red-team",
+                  "security-automation",
+                  "security-tools",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             },
@@ -511,12 +857,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-Assisted Vulnerability Discovery, Validation & Proof Engine",
+                "homepage": "https://nullc0d30.github.io/HunterX/",
                 "id": 1148383268,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:40:04Z",
+                "open_issues": 3,
                 "owner": "nullc0d30",
                 "repo": "HunterX",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "application-security",
+                  "bug-bounty",
+                  "cybersecurity",
+                  "ethical-hacking",
+                  "exploit",
+                  "hunterx",
+                  "offensive-security",
+                  "penetration-testing",
+                  "red-team",
+                  "security-automation",
+                  "vulnerability-research",
+                  "vulnerability-scanner",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
             }
@@ -530,15 +895,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:22:04.473Z",
+    "last_updated": "2026-08-29T04:53:18.615Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",
+      "homepage": "https://amanpriyanshu.github.io/Awesome-AI-For-Security/",
       "id": 975364658,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-13T09:34:00Z",
+      "open_issues": 4,
       "owner": "AmanPriyanshu",
       "repo": "Awesome-AI-For-Security",
-      "stars": 147
+      "stars": 147,
+      "topics": [
+        "agent",
+        "agents",
+        "ai",
+        "ai-for-security",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-readme",
+        "awesome-resources",
+        "cyber-security",
+        "cybersecurity",
+        "cybersecurity-education",
+        "llm",
+        "llm-agent",
+        "llm-agents",
+        "llm-inference",
+        "llms",
+        "security",
+        "security-automation",
+        "security-tools"
+      ]
     },
     "original_repository_sha": "bdaf13cad8c558cd74b61ecc8dbc017d3daf9d5f",
     "enhanced_repository": "enhansome/enhansome-Awesome-AI-For-Security",

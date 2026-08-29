@@ -135,7 +135,7 @@ Software tools that implement AI for security applications.
 
 ### Security Testing
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,650 | 🐛 540 | 🌐 TypeScript | 📅 2026-08-29 - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,651 | 🐛 540 | 🌐 TypeScript | 📅 2026-08-29 - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
 * [garak](https://github.com/leondz/garak/) ⭐ 9,066 | 🐛 408 | 🌐 Python | 📅 2026-08-25 - Specialized security probing tool designed specifically for LLM vulnerability assessment.
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) ⭐ 2,971 | 🐛 8 | 🌐 Python | 📅 2026-08-28 - Security scanning tool specifically designed for Model Context Protocol servers.
 * [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-07-17 - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
