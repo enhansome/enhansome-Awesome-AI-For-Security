@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9336,
+            "stars": 9338,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -41,11 +41,11 @@
             "id": 653250172,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-28T05:44:28Z",
-            "open_issues": 155,
+            "last_commit": "2026-08-30T07:34:31Z",
+            "open_issues": 157,
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1434,
+            "stars": 1435,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
@@ -63,7 +63,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T20:29:51Z",
-            "open_issues": 181,
+            "open_issues": 185,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
             "stars": 732,
@@ -343,11 +343,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T21:51:06Z",
-                "open_issues": 549,
+                "last_commit": "2026-08-30T18:07:04Z",
+                "open_issues": 552,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24664,
+                "stars": 24679,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -387,7 +387,7 @@
                 "open_issues": 410,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9072,
+                "stars": 9079,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -414,7 +414,7 @@
                 "open_issues": 8,
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 2976,
+                "stars": 2982,
                 "topics": [
                   "agent",
                   "ai",
@@ -535,7 +535,7 @@
                 "open_issues": 2,
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1227,
+                "stars": 1228,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -637,11 +637,11 @@
                 "id": 1159563091,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T12:35:18Z",
+                "last_commit": "2026-08-30T12:36:53Z",
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
-                "stars": 161,
+                "stars": 163,
                 "topics": [
                   "agent-memory",
                   "agentic-ai",
@@ -895,7 +895,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:34:45.349Z",
+    "last_updated": "2026-08-30T23:48:22.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",
