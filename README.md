@@ -34,9 +34,9 @@ Found this resource helpful for your security research? Consider adding a star �
 
 Other collections and lists that may be of interest.
 
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,386 | 🐛 31 | 📅 2024-08-19 - Established resource for traditional ML approaches in security, predating modern LLM era.
-* [Awesome AI Security](https://github.com/ottosulin/awesome-ai-security) ⭐ 1,481 | 🐛 185 | 📅 2026-09-17 - Complementary list focusing on AI security rather than AI for security applications.
-* [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) ⭐ 736 | 🐛 211 | 📅 2026-03-03 - Definitive resource covering all aspects of Model Context Protocol security.
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,387 | 🐛 31 | 📅 2024-08-19 - Established resource for traditional ML approaches in security, predating modern LLM era.
+* [Awesome AI Security](https://github.com/ottosulin/awesome-ai-security) ⭐ 1,483 | 🐛 184 | 📅 2026-09-17 - Complementary list focusing on AI security rather than AI for security applications.
+* [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) ⭐ 737 | 🐛 211 | 📅 2026-03-03 - Definitive resource covering all aspects of Model Context Protocol security.
 * [Awesome AI for Cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) ⭐ 273 | 🐛 0 | 📅 2026-08-11 - Earlier comprehensive resource collection, focusing on pre-LLM machine learning applications.
 * [Awesome AI4DevSecOps](https://github.com/awsm-research/Awesome-AI4DevSecOps) ⭐ 20 | 🐛 0 | 📅 2025-07-02 - Recent integration of AI technologies within DevSecOps frameworks and methodologies.
 
@@ -80,7 +80,7 @@ This section covers frameworks and methodologies for evaluating AI systems withi
 ### Vulnerability Assessment
 
 * [SecLLMHolmes](https://github.com/ai4cloudops/SecLLMHolmes) ⭐ 67 | 🐛 2 | 🌐 C | 📅 2025-05-04 - Automated framework for systematic LLM vulnerability detection evaluation across multiple dimensions.
-* [VLoc Bench](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark) ⭐ 27 | 🐛 6 | 🌐 Python | 📅 2026-09-14 - Two-phase agentic benchmark (500 tasks, 290 repos, 147 CWE types) evaluating terminal-based vulnerability localization and patch verification.
+* [VLoc Bench](https://github.com/cisco-foundation-ai/vulnerability-localization-benchmark) ⭐ 28 | 🐛 6 | 🌐 Python | 📅 2026-09-14 - Two-phase agentic benchmark (500 tasks, 290 repos, 147 CWE types) evaluating terminal-based vulnerability localization and patch verification.
 * [AutoPatchBench](https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/) - Benchmark for automated repair of fuzzing-detected vulnerabilities, pioneering evaluation standards.
 
 ### Threat Intelligence
@@ -135,15 +135,15 @@ Software tools that implement AI for security applications.
 
 ### Security Testing
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,236 | 🐛 630 | 🌐 TypeScript | 📅 2026-09-17 - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
-* [garak](https://github.com/leondz/garak/) ⭐ 9,290 | 🐛 439 | 🌐 Python | 📅 2026-09-16 - Specialized security probing tool designed specifically for LLM vulnerability assessment.
-* [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) ⭐ 3,060 | 🐛 14 | 🌐 Python | 📅 2026-09-17 - Security scanning tool specifically designed for Model Context Protocol servers.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,270 | 🐛 637 | 🌐 TypeScript | 📅 2026-09-18 - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
+* [garak](https://github.com/leondz/garak/) ⭐ 9,299 | 🐛 448 | 🌐 Python | 📅 2026-09-16 - Specialized security probing tool designed specifically for LLM vulnerability assessment.
+* [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) ⭐ 3,066 | 🐛 13 | 🌐 Python | 📅 2026-09-18 - Security scanning tool specifically designed for Model Context Protocol servers.
 * [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
 
 ### Learning Environments
 
-* [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) ⭐ 635 | 🐛 14 | 🌐 Python | 📅 2022-11-21 - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
+* [Malware Env for OpenAI Gym](https://github.com/endgameinc/gym-malware) ⭐ 636 | 🐛 14 | 🌐 Python | 📅 2022-11-21 - Reinforcement learning environment enabling malware manipulation for AV bypass learning.
 * [Deep-pwning](https://github.com/cchio/deep-pwning) ⭐ 569 | 🐛 5 | 🌐 Python | 📅 2023-03-25 - Framework for assessing ML model robustness against adversarial attacks through systematic evaluation.
 
 ## Security Agents
@@ -152,18 +152,18 @@ AI systems designed to perform security-related tasks with varying degrees of au
 
 ### Autonomous Agents
 
-* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) ⭐ 1,240 | 🐛 2 | 🌐 Python | 📅 2026-09-13 - Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.
+* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) ⭐ 1,241 | 🐛 2 | 🌐 Python | 📅 2026-09-13 - Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,054 | 🐛 15 | 🌐 Python | 📅 2025-11-27 - Open-source CLI security scanner for agentic workflows with automated detection.
-* [Cynative](https://github.com/cynative/cynative) ⭐ 203 | 🐛 20 | 🌐 Go | 📅 2026-09-17 - Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.
-* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 177 | 🐛 26 | 🌐 Python | 📅 2026-09-17 - Official OWASP framework for detecting and preventing AI agent memory poisoning (OWASP ASI06). Scans agent memory stores for prompt injection payloads, memory manipulation patterns, and data exfiltration attempts.
+* [Cynative](https://github.com/cynative/cynative) ⭐ 203 | 🐛 20 | 🌐 Go | 📅 2026-09-18 - Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.
+* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 178 | 🐛 26 | 🌐 Python | 📅 2026-09-18 - Official OWASP framework for detecting and preventing AI agent memory poisoning (OWASP ASI06). Scans agent memory stores for prompt injection payloads, memory manipulation patterns, and data exfiltration attempts.
 * [Fraim](https://github.com/fraim-dev/fraim) ⭐ 159 | 🐛 22 | 🌐 Python | 📅 2026-02-09 A flexible framework for security teams to build and deploy AI-powered workflows.
 * [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-09-08 - Agentic security-review harness for Rust projects that autonomously finds, triages, fuzz-verifies, reports, and patches unsafe/FFI memory bugs, panic-DoS, and deserialization-trust issues.
 
 ### Red Team Agents
 
-* [agentic\_security](https://github.com/msoedov/agentic_security/) ⭐ 2,001 | 🐛 72 | 🌐 Python | 📅 2026-09-11 - LLM vulnerability scanner specializing in agentic systems and workflows.
-* [HackGPT](https://github.com/NoDataFound/hackGPT) ⭐ 1,206 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-12 - LLM-powered tool designed specifically for offensive security and ethical hacking.
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 946 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - Open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through human readable Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.
+* [agentic\_security](https://github.com/msoedov/agentic_security/) ⭐ 2,004 | 🐛 72 | 🌐 Python | 📅 2026-09-11 - LLM vulnerability scanner specializing in agentic systems and workflows.
+* [HackGPT](https://github.com/NoDataFound/hackGPT) ⭐ 1,209 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-12 - LLM-powered tool designed specifically for offensive security and ethical hacking.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 948 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - Open source engine for autonomous AI penetration testing that orchestrates 80+ offensive tools through human readable Markdown playbooks and agentic reasoning over MCP, with a command and raw output evidence trail for every finding across web, cloud, Active Directory, Kubernetes and API.
 * [HunterX](https://github.com/nullc0d30/HunterX) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-09-07 - Open source AI-assisted vulnerability discovery, validation, and proof engine for security testing and red-team workflows.
 
 ## Contribute
@@ -180,4 +180,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
