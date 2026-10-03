@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9432,
+            "stars": 9434,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -343,11 +343,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:27:40Z",
+                "last_commit": "2026-10-03T02:47:54Z",
                 "open_issues": 693,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 25654,
+                "stars": 25658,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -387,7 +387,7 @@
                 "open_issues": 484,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9410,
+                "stars": 9411,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -626,7 +626,7 @@
                 "id": 1159563091,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T12:46:24Z",
+                "last_commit": "2026-10-03T01:21:34Z",
                 "open_issues": 21,
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
@@ -884,7 +884,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:42:53.965Z",
+    "last_updated": "2026-10-03T04:24:13.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",

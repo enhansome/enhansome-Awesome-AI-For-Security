@@ -34,7 +34,7 @@ Found this resource helpful for your security research? Consider adding a star �
 
 Other collections and lists that may be of interest.
 
-* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,432 | 🐛 31 | 📅 2024-08-19 - Established resource for traditional ML approaches in security, predating modern LLM era.
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,434 | 🐛 31 | 📅 2024-08-19 - Established resource for traditional ML approaches in security, predating modern LLM era.
 * [Awesome AI Security](https://github.com/ottosulin/awesome-ai-security) ⭐ 1,517 | 🐛 213 | 📅 2026-10-02 - Complementary list focusing on AI security rather than AI for security applications.
 * [Awesome-MCP-Security](https://github.com/Puliczek/awesome-mcp-security) ⭐ 741 | 🐛 224 | 📅 2026-03-03 - Definitive resource covering all aspects of Model Context Protocol security.
 * [Awesome AI for Cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) ⭐ 272 | 🐛 0 | 📅 2026-10-02 - Earlier comprehensive resource collection, focusing on pre-LLM machine learning applications.
@@ -135,8 +135,8 @@ Software tools that implement AI for security applications.
 
 ### Security Testing
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,654 | 🐛 693 | 🌐 TypeScript | 📅 2026-10-03 - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
-* [garak](https://github.com/leondz/garak/) ⭐ 9,410 | 🐛 484 | 🌐 Python | 📅 2026-10-02 - Specialized security probing tool designed specifically for LLM vulnerability assessment.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 25,658 | 🐛 693 | 🌐 TypeScript | 📅 2026-10-03 - Open-source LLM red teaming tool for finding and fixing vulnerabilities. 100+ attack types, 250k+ users.
+* [garak](https://github.com/leondz/garak/) ⭐ 9,411 | 🐛 484 | 🌐 Python | 📅 2026-10-02 - Specialized security probing tool designed specifically for LLM vulnerability assessment.
 * [MCP-Scan](https://github.com/invariantlabs-ai/mcp-scan) ⭐ 3,110 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Security scanning tool specifically designed for Model Context Protocol servers.
 * [GAUNTLEX](https://github.com/sanjoy1234/gauntlex) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-16 - Concurrent Builder + Breaker agents generate code and adversarial security tests at the same instant, producing an Adversarial Resilience Score gated in CI — tests the spec, not just the shipped code.
 * [Snaike-MLFlow](https://github.com/protectai/Snaike-MLflow) - MLflow-focused red team toolsuite for attacking ML pipelines and infrastructure.
@@ -155,7 +155,7 @@ AI systems designed to perform security-related tasks with varying degrees of au
 * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) ⭐ 1,249 | 🐛 3 | 🌐 Python | 📅 2026-10-01 - Autonomous pentesting agent with corresponding benchmark dataset for standardized evaluation.
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ⭐ 1,057 | 🐛 15 | 🌐 Python | 📅 2025-11-27 - Open-source CLI security scanner for agentic workflows with automated detection.
 * [Cynative](https://github.com/cynative/cynative) ⭐ 218 | 🐛 21 | 🌐 Go | 📅 2026-10-02 - Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.
-* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 183 | 🐛 21 | 🌐 Python | 📅 2026-10-02 - Official OWASP framework for detecting and preventing AI agent memory poisoning (OWASP ASI06). Scans agent memory stores for prompt injection payloads, memory manipulation patterns, and data exfiltration attempts.
+* [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) ⭐ 183 | 🐛 21 | 🌐 Python | 📅 2026-10-03 - Official OWASP framework for detecting and preventing AI agent memory poisoning (OWASP ASI06). Scans agent memory stores for prompt injection payloads, memory manipulation patterns, and data exfiltration attempts.
 * [Fraim](https://github.com/fraim-dev/fraim) ⭐ 159 | 🐛 22 | 🌐 Python | 📅 2026-02-09 A flexible framework for security teams to build and deploy AI-powered workflows.
 * [rust-in-peace](https://github.com/scadastrangelove/rust-in-peace) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2026-10-01 - Agentic security-review harness for Rust projects that autonomously finds, triages, fuzz-verifies, reports, and patches unsafe/FFI memory bugs, panic-DoS, and deserialization-trust issues.
 
