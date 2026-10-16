@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9480,
+            "stars": 9488,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -42,10 +42,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-15T06:03:01Z",
-            "open_issues": 237,
+            "open_issues": 242,
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1552,
+            "stars": 1554,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
@@ -63,7 +63,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T20:29:51Z",
-            "open_issues": 242,
+            "open_issues": 244,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
             "stars": 743,
@@ -243,7 +243,7 @@
                 "open_issues": 4,
                 "owner": "NYU-LLM-CTF",
                 "repo": "NYU_CTF_Bench",
-                "stars": 182,
+                "stars": 181,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
@@ -343,11 +343,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T23:25:12Z",
-                "open_issues": 730,
+                "last_commit": "2026-10-16T22:57:08Z",
+                "open_issues": 762,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 26022,
+                "stars": 26070,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -383,11 +383,11 @@
                 "id": 639097338,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T23:40:04Z",
-                "open_issues": 487,
+                "last_commit": "2026-10-16T20:15:19Z",
+                "open_issues": 486,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9583,
+                "stars": 9594,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -410,11 +410,11 @@
                 "id": 962024783,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T14:33:10Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-16T07:13:14Z",
+                "open_issues": 21,
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 3139,
+                "stars": 3142,
                 "topics": [
                   "agent",
                   "ai",
@@ -535,7 +535,7 @@
                 "open_issues": 3,
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1273,
+                "stars": 1274,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -561,7 +561,7 @@
                 "open_issues": 14,
                 "owner": "splx-ai",
                 "repo": "agentic-radar",
-                "stars": 1060,
+                "stars": 1059,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -595,8 +595,8 @@
                 "id": 1279470595,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T14:50:28Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-16T21:57:17Z",
+                "open_issues": 31,
                 "owner": "cynative",
                 "repo": "cynative",
                 "stars": 223,
@@ -626,7 +626,7 @@
                 "id": 1159563091,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T13:06:45Z",
+                "last_commit": "2026-10-16T12:44:11Z",
                 "open_issues": 25,
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
@@ -778,7 +778,7 @@
                 "open_issues": 75,
                 "owner": "msoedov",
                 "repo": "agentic_security",
-                "stars": 2021,
+                "stars": 2022,
                 "topics": [
                   "agent-framework",
                   "agent-security",
@@ -814,7 +814,7 @@
                 "open_issues": 19,
                 "owner": "NoDataFound",
                 "repo": "hackGPT",
-                "stars": 1214,
+                "stars": 1213,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -849,7 +849,7 @@
                 "open_issues": 8,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1028,
+                "stars": 1031,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -891,7 +891,7 @@
                 "open_issues": 1,
                 "owner": "BugTraceAI",
                 "repo": "BugTraceAI",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "ai-agents",
                   "api-security",
@@ -950,7 +950,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:49:07.133Z",
+    "last_updated": "2026-10-16T23:51:16.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",
@@ -962,7 +962,7 @@
       "open_issues": 3,
       "owner": "AmanPriyanshu",
       "repo": "Awesome-AI-For-Security",
-      "stars": 150,
+      "stars": 151,
       "topics": [
         "agent",
         "agents",
