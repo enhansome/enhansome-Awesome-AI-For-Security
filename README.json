@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "jivoi",
             "repo": "awesome-ml-for-cybersecurity",
-            "stars": 9558,
+            "stars": 9562,
             "topics": [
               "awesome-list",
               "cyber-security",
@@ -42,10 +42,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-15T10:09:40Z",
-            "open_issues": 331,
+            "open_issues": 335,
             "owner": "ottosulin",
             "repo": "awesome-ai-security",
-            "stars": 1618,
+            "stars": 1619,
             "topics": []
           },
           "first_seen": "2026-08-28T05:35:59.409Z"
@@ -63,7 +63,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T20:29:51Z",
-            "open_issues": 310,
+            "open_issues": 312,
             "owner": "Puliczek",
             "repo": "awesome-mcp-security",
             "stars": 748,
@@ -343,11 +343,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T01:19:09Z",
-                "open_issues": 965,
+                "last_commit": "2026-11-17T02:30:50Z",
+                "open_issues": 967,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 27245,
+                "stars": 27337,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -384,10 +384,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T23:26:29Z",
-                "open_issues": 584,
+                "open_issues": 587,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 10039,
+                "stars": 10055,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -410,11 +410,11 @@
                 "id": 962024783,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T12:21:32Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-16T19:12:37Z",
+                "open_issues": 28,
                 "owner": "snyk",
                 "repo": "agent-scan",
-                "stars": 3243,
+                "stars": 3246,
                 "topics": [
                   "agent",
                   "ai",
@@ -480,7 +480,7 @@
                 "open_issues": 14,
                 "owner": "endgameinc",
                 "repo": "gym-malware",
-                "stars": 637,
+                "stars": 639,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
@@ -501,7 +501,7 @@
                 "open_issues": 5,
                 "owner": "cchio",
                 "repo": "deep-pwning",
-                "stars": 571,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:35:59.409Z"
@@ -535,7 +535,7 @@
                 "open_issues": 4,
                 "owner": "ipa-lab",
                 "repo": "hackingBuddyGPT",
-                "stars": 1329,
+                "stars": 1331,
                 "topics": [
                   "large-language-models",
                   "llm",
@@ -599,7 +599,7 @@
                 "open_issues": 34,
                 "owner": "cynative",
                 "repo": "cynative",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "agentic-security",
                   "aws-security",
@@ -626,7 +626,7 @@
                 "id": 1159563091,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T01:07:35Z",
+                "last_commit": "2026-11-17T01:05:44Z",
                 "open_issues": 27,
                 "owner": "OWASP",
                 "repo": "www-project-agent-memory-guard",
@@ -774,11 +774,11 @@
                 "id": 785334631,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T16:15:21Z",
+                "last_commit": "2026-11-16T10:05:13Z",
                 "open_issues": 21,
                 "owner": "msoedov",
                 "repo": "agentic_security",
-                "stars": 2046,
+                "stars": 2047,
                 "topics": [
                   "agent-framework",
                   "agent-security",
@@ -814,7 +814,7 @@
                 "open_issues": 7,
                 "owner": "ASCIT31",
                 "repo": "Dark-Moon",
-                "stars": 1239,
+                "stars": 1249,
                 "topics": [
                   "active-directory",
                   "ai-penetration-testing",
@@ -891,7 +891,7 @@
                 "open_issues": 1,
                 "owner": "BugTraceAI",
                 "repo": "BugTraceAI",
-                "stars": 386,
+                "stars": 388,
                 "topics": [
                   "ai-agents",
                   "api-security",
@@ -917,8 +917,8 @@
                 "id": 1148383268,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T23:11:13Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-16T11:09:28Z",
+                "open_issues": 2,
                 "owner": "nullc0d30",
                 "repo": "HunterX",
                 "stars": 16,
@@ -950,7 +950,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:21:13.811Z",
+    "last_updated": "2026-11-17T04:09:30.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",
